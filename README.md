@@ -1,7 +1,7 @@
 # howto
 List of howtos (scripts, installation, etc.).
 
-Check out the [wiki](../../wiki).
+Check out the **[wiki](../../wiki)**.
 
 # License
 This file is part of howto.
