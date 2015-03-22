@@ -1,8 +1,9 @@
-# howto
+# Howto
 List of howtos (scripts, installation, etc.)
 
 Check out the [wiki](../../wiki).
 
+# License
 This file is part of howto.
 
 Copyright (C) Cedric SILEO
