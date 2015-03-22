@@ -1,7 +1,7 @@
 # howto
 List of howtos (scripts, installation, etc.)
 
-Check out the [wiki](/wiki).
+Check out the [wiki](../../wiki).
 
 This file is part of howto.
 
