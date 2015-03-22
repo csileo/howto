@@ -1,5 +1,5 @@
-# Howto
-List of howtos (scripts, installation, etc.)
+# howto
+List of howtos (scripts, installation, etc.).
 
 Check out the [wiki](../../wiki).
 
